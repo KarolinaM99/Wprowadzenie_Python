@@ -1,1 +1,1 @@
-# dswp_python
+Karolina Maliszewska
