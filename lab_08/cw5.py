@@ -1,0 +1,6 @@
+def top_10_percent(tablica):
+    zwroc = int(len(tablica) * 0.1) 
+    return sorted(tablica)[-zwroc:]
+
+tablica = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
+print(top_10_percent(tablica))
