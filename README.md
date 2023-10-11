@@ -1,5 +1,4 @@
 # Wprowadzenie do języka Python
-Rozwiązania zadań z przedmiotu Wprowadzenie do języka Python 
 Karolina Maliszewska
 ## Rozwiązania zadań
 - [x] [Lab 1](lab_01)
